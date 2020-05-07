@@ -1,0 +1,9 @@
+[submodule "DockerBox"]
+	path = DockerBox
+	url = git@github.com:MetaBarj0/DockerBox.git
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:MetaBarj0/dockerized-trinitycore.scripts.git
+[submodule "fork"]
+	path = fork
+	url = git@github.com:MetaBarj0/dockerized-trinitycore.fork.git
