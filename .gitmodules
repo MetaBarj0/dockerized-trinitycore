@@ -5,5 +5,5 @@
 	path = scripts
 	url = git@github.com:MetaBarj0/dockerized-trinitycore.scripts.git
 [submodule "fork"]
-	path = fork
+	path = owned-forks
 	url = git@github.com:MetaBarj0/dockerized-trinitycore.fork.git
